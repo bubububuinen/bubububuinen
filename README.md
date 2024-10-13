@@ -1,4 +1,3 @@
--19 years old
 -Discord: lukadev.0
 <!---
 bubububuinen/bubububuinen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
